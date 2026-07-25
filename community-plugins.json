@@ -65,8 +65,8 @@
   {
     "id": "impro-latex",
     "name": "LaTeX Math",
-    "author": "Impro Contributor",
+    "author": "Seanan Riley",
     "description": "Full LaTeX math rendering with KaTeX — $...$ for inline, $$...$$ for display",
-    "repo": "riziles/impro-latex-plugin"
+    "repo": "imseananriley/impro-latex-plugin"
   }
 ]
